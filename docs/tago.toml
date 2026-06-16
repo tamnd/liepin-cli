@@ -1,0 +1,10 @@
+title       = "liepin"
+baseURL     = "https://liepin-cli.tamnd.com/"
+description = "Liepin executive job search CLI"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/liepin-cli"
